@@ -16,7 +16,7 @@
 
   - Learnd to use css position [Relative & Absolute] property.
 
-  -Learn to use z-index to put svg icon behind the image
+  - Learn to use z-index to put svg icon behind the image
 
   - learn flex-box
 
