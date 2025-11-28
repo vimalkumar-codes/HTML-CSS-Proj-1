@@ -10,13 +10,13 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-r-lightgrey)
 
-## Project 1 [Live Link](https://street-stylelandingpage.netlify.app/)
+## Project 1 [Live Link](https://1-streetstylelandingpage.netlify.app/)
 
 - Skills Gained in this project
 
   - Learnd to use css position [Relative & Absolute] property.
 
-  -Learn to use z-index to put svg icon behind the image
+  - Learn to use z-index to put svg icon behind the image
 
   - learn flex-box
 
